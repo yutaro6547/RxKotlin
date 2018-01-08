@@ -1,24 +1,15 @@
-import org.apache.commons.lang3.StringUtils
 import rx.Observable
 
-fun <T> Observable<T>.filterNotEmpty(): Observable<T> = filter {
-    when (it) {
-        is String -> !StringUtils.isEmpty(it)
-        is List<*> -> it.count() > 0
-        else -> it != null
-    }
-}
+/**
+ * 空文字の場合通さない
+ */
 
 fun main(args: Array<String>) {
-    val array: Array<String> = arrayOf("allow", "bow", "", "deep")
-    var result: Array<String>? = null
+    val array: Array<String> = arrayOf("a", "b", "", "d")
     Observable.from(array)
-            .filterNotEmpty()
+            .filter { !it.isEmpty() }
             .subscribe({
-                result = array
+                println(it)
             })
-    for (i in result?.indices!!) {
-        println(message = result!![i])
-    }
 }
 
