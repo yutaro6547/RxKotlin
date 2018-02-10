@@ -10,6 +10,6 @@ fun main(args: Array<String>) {
             .skip(2)
             .subscribe({
                 println(it)
-            })
+            }, {})
 }
 

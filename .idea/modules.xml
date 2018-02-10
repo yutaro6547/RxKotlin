@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SourceTree-rxkotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/SourceTree-rxkotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SourceTree-rxkotlin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SourceTree-rxkotlin_main.iml" group="rxkotlin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SourceTree-rxkotlin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SourceTree-rxkotlin_test.iml" group="rxkotlin" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-rxkotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-rxkotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-rxkotlin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-rxkotlin_main.iml" group="rxkotlin" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-rxkotlin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-rxkotlin_test.iml" group="rxkotlin" />
