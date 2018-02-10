@@ -7,9 +7,9 @@ import rx.Observable
 fun main(args: Array<String>) {
     val array: Array<String> = arrayOf("allow", "bow", "", "dead")
     Observable.from(array)
-            .flatMap { i -> Observable.just("fuck") }
+            .flatMap { i -> if (i == "bow") Observable.just("fuck") else Observable.just(i.length)}
             .subscribe({
                 println(it)
-            })
+            }, {})
 }
 

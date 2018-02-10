@@ -10,6 +10,6 @@ fun main(args: Array<String>) {
             .map { it.length }
             .subscribe({
                 println(it)
-            })
+            }, {})
 }
 
