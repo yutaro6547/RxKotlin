@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f1afb974-c6c6-412d-bf2d-4f423e157ce6" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/Zip.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/kotlin/Skip.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/Skip.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/FilterKt.class" afterPath="$PROJECT_DIR$/out/production/classes/FilterKt.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/classes/SkipKt.class" afterPath="$PROJECT_DIR$/out/production/classes/SkipKt.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/kotlin/Take.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/Take.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -43,17 +46,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Take.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Take.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Take.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            <state relative-caret-position="180">
+              <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Skip.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Skip.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Skip.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -464,7 +467,6 @@
       <list>
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/Take.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Distinct.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Debounce.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/ElementAt.kt" />
@@ -474,6 +476,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/FlatMap.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Filter.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Skip.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Take.kt" />
       </list>
     </option>
   </component>
@@ -557,7 +560,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.FilterKt">
+  <component name="RunManager" selected="Kotlin.SkipKt">
     <configuration name="DebounceKt" type="JetRunConfigurationType" factoryName="Kotlin" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="DebounceKt" />
@@ -606,9 +609,9 @@
       <module name="eureka-rxkotlin_main" />
       <envs />
     </configuration>
-    <configuration name="MergeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="SkipKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="MergeKt" />
+      <option name="MAIN_CLASS_NAME" value="SkipKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -713,19 +716,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Kotlin.DebounceKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.MergeKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.ZipKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.FlatMapKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.MapKt" />
-      <item index="5" class="java.lang.String" itemvalue="Kotlin.FilterKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.ZipKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.FlatMapKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.MapKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.FilterKt" />
+      <item index="5" class="java.lang.String" itemvalue="Kotlin.SkipKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.FilterKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.FlatMapKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.MapKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.ZipKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.MergeKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.SkipKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.FilterKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.FlatMapKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.MapKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.ZipKt" />
       </list>
     </recent_temporary>
   </component>
@@ -746,12 +749,12 @@
       <workItem from="1515547174020" duration="2013000" />
       <workItem from="1515980679289" duration="257000" />
       <workItem from="1516587792861" duration="149000" />
-      <workItem from="1518228999484" duration="1335000" />
+      <workItem from="1518228999484" duration="1690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11858000" />
+    <option name="totallyTimeSpent" value="12213000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -1101,14 +1104,6 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/untitled/src/test.kt" />
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Take.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Debounce.kt" />
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Distinct.kt">
       <provider selected="true" editor-type-id="text-editor">
@@ -1195,6 +1190,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Take.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding />
         </state>
       </provider>
