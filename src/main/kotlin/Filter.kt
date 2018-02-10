@@ -10,6 +10,6 @@ fun main(args: Array<String>) {
             .filter { !it.isEmpty() }
             .subscribe({
                 println(it)
-            })
+            }, {})
 }
 
