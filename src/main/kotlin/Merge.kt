@@ -10,6 +10,6 @@ fun main(args: Array<String>) {
     Observable.merge(Observable.from(array1), Observable.from(array2))
             .subscribe({
                 println(it)
-            })
+            }, {})
 }
 
