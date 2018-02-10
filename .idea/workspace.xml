@@ -2,36 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1afb974-c6c6-412d-bf2d-4f423e157ce6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/Buffer.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/DistinctUntilChanged.kt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/kotlin/TakeUntil.kt" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/DistinctKt$main$1.class" afterPath="$PROJECT_DIR$/out/production/classes/DistinctKt$main$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/DistinctKt.class" afterPath="$PROJECT_DIR$/out/production/classes/DistinctKt.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ElementAtKt$main$1.class" afterPath="$PROJECT_DIR$/out/production/classes/ElementAtKt$main$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ElementAtKt.class" afterPath="$PROJECT_DIR$/out/production/classes/ElementAtKt.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FilterKt$main$1.class" afterPath="$PROJECT_DIR$/out/production/classes/FilterKt$main$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FilterKt$main$2.class" afterPath="$PROJECT_DIR$/out/production/classes/FilterKt$main$2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FilterKt.class" afterPath="$PROJECT_DIR$/out/production/classes/FilterKt.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FlatMapKt$main$1.class" afterPath="$PROJECT_DIR$/out/production/classes/FlatMapKt$main$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FlatMapKt$main$2.class" afterPath="$PROJECT_DIR$/out/production/classes/FlatMapKt$main$2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FlatMapKt$main$3.class" afterPath="$PROJECT_DIR$/out/production/classes/FlatMapKt$main$3.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FlatMapKt.class" afterPath="$PROJECT_DIR$/out/production/classes/FlatMapKt.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/MapKt$main$1.class" afterPath="$PROJECT_DIR$/out/production/classes/MapKt$main$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/MapKt$main$2.class" afterPath="$PROJECT_DIR$/out/production/classes/MapKt$main$2.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/MapKt$main$3.class" afterPath="$PROJECT_DIR$/out/production/classes/MapKt$main$3.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/MapKt.class" afterPath="$PROJECT_DIR$/out/production/classes/MapKt.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/MergeKt$main$1.class" afterPath="$PROJECT_DIR$/out/production/classes/MergeKt$main$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/MergeKt.class" afterPath="$PROJECT_DIR$/out/production/classes/MergeKt.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/SkipKt$main$1.class" afterPath="$PROJECT_DIR$/out/production/classes/SkipKt$main$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/SkipKt.class" afterPath="$PROJECT_DIR$/out/production/classes/SkipKt.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/TakeKt$main$1.class" afterPath="$PROJECT_DIR$/out/production/classes/TakeKt$main$1.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/TakeKt.class" afterPath="$PROJECT_DIR$/out/production/classes/TakeKt.class" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Distinct.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/Distinct.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ElementAt.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/ElementAt.kt" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Merge.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/Merge.kt" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/SourceTree-rxkotlin_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/SourceTree-rxkotlin_test.iml" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/TakeUntil.kt" afterPath="$PROJECT_DIR$/src/main/kotlin/TakeUntil.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -61,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Take.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Take.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Take.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <caret line="15" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -124,18 +97,18 @@
       <file leaf-file-name="Buffer.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Buffer.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="119">
+              <caret line="7" column="75" lean-forward="false" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="107" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TakeUntil.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TakeUntil.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/TakeUntil.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="204">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -144,8 +117,8 @@
       <file leaf-file-name="DistinctUntilChanged.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/DistinctUntilChanged.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="187">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -509,6 +482,7 @@
         <option value="$PROJECT_DIR$/src/main/kotlin/Buffer.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/DistinctUntilChanged.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/Distinct.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/TakeUntil.kt" />
       </list>
     </option>
   </component>
@@ -540,39 +514,39 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="rxkotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rxkotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="rxkotlin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rxkotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rxkotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="rxkotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rxkotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rxkotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="rxkotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rxkotlin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rxkotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="rxkotlin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -596,7 +570,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.DistinctKt">
+  <component name="RunManager" selected="Kotlin.TakeUntilKt">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -698,16 +672,16 @@
       <module name="SourceTree-rxkotlin_main" />
       <envs />
     </configuration>
-    <configuration name="FilterKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="TakeUntilKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="FilterKt" />
+      <option name="MAIN_CLASS_NAME" value="TakeUntilKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="eureka-rxkotlin_main" />
+      <module name="SourceTree-rxkotlin_main" />
       <envs />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -752,19 +726,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Kotlin.DebounceKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.FilterKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.DistinctKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.ElementAtKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.BufferKt" />
-      <item index="5" class="java.lang.String" itemvalue="Kotlin.DistinctUntilChangedKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.DistinctKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.ElementAtKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.BufferKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.DistinctUntilChangedKt" />
+      <item index="5" class="java.lang.String" itemvalue="Kotlin.TakeUntilKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.DistinctKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.DistinctUntilChangedKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.BufferKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.ElementAtKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.FilterKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.TakeUntilKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.BufferKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.DistinctKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.DistinctUntilChangedKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.ElementAtKt" />
       </list>
     </recent_temporary>
   </component>
@@ -790,11 +764,12 @@
       <workItem from="1516587792861" duration="149000" />
       <workItem from="1518228999484" duration="1240000" />
       <workItem from="1518271547202" duration="1692000" />
+      <workItem from="1518273508864" duration="307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14706000" />
+    <option name="totallyTimeSpent" value="15013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1352" y="-331" width="1936" height="1096" extended-state="6" />
@@ -808,25 +783,25 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25940996" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -904,9 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <marker date="1518246840205" expanded="true" signature="230:277" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -972,9 +944,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <marker date="1518246840205" expanded="true" signature="230:277" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1023,7 +992,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="50" lean-forward="false" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1040,7 +1008,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="50" lean-forward="false" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1056,7 +1023,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="50" lean-forward="false" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1064,7 +1030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1084,9 +1049,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <marker date="1518246840205" expanded="true" signature="230:277" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1126,7 +1088,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1146,34 +1107,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DistinctUntilChanged.kt">
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Take.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="15" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/DistinctUntilChanged.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/Buffer.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="75" lean-forward="false" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="107" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/TakeUntil.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Take.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
           <folding />
         </state>
       </provider>

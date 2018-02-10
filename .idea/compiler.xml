@@ -6,8 +6,6 @@
       <module name="eureka-rxkotlin_test" target="1.8" />
       <module name="rxkotlin_main" target="1.8" />
       <module name="rxkotlin_test" target="1.8" />
-      <module name="SourceTree-rxkotlin_main" target="1.8" />
-      <module name="SourceTree-rxkotlin_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
