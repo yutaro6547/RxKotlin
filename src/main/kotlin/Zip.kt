@@ -1,8 +1,10 @@
 import rx.Observable
+import java.util.*
 import java.util.concurrent.TimeUnit
+import java.util.function.BiFunction
 
 /**
- * mergeで二つのobservableを合成する
+ * zipで揃ったタイミングで新しいデータを生成する。
  */
 
 fun main(args: Array<String>) {
@@ -13,9 +15,9 @@ fun main(args: Array<String>) {
             .take(20)
             .map { data -> data * 3 }
 
-    Observable.merge(ob1, ob2)
+    Observable.zip(ob1, ob2, {data1, data2 -> Arrays.asList(data1, data2)})
             .subscribe({
-                println("Merge data : " + it.toString())
+                println("Zip data : " + it.toString())
             }, {})
     Thread.sleep(10000L)
 }
