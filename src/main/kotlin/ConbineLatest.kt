@@ -17,7 +17,7 @@ fun main(args: Array<String>) {
 
     Observable.combineLatest(ob1, ob2, {data1, data2 -> Arrays.asList(data1, data2)})
             .subscribe({
-                println("Zip data : " + it.toString())
+                println("CombineLatest data : " + it.toString())
             }, {})
     Thread.sleep(10000L)
 }
